@@ -1,2 +1,2 @@
 # Description
-API for a task manager application. API employs all aspects of a CRUD application, including user authentication.
+API for a task manager application. API employs all aspects of a CRUD application, including user authentication. API allows user account creation with username and password. Users with an account can upload tasks to do and mark them as completed or not. As with all CRUD applications, users have the ability to create, edit, and delete as many tasks as desired. Users can also delete their account. Upon deletion, all user data as well as tasks associated with the user's account are deleted from the database.
